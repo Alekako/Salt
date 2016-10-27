@@ -1,0 +1,2 @@
+# Salt
+Scripts about Salt
